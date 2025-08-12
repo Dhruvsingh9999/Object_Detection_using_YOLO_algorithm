@@ -33,11 +33,6 @@ Run the following command to use your webcam for real-time detection:
 ```python
 python yolo-webcam.ipynb
 ```
-
-## Example Output
-Below is a sample output of YOLO detecting objects in an image:
-![YOLO Detection Sample](path/to/sample_image.jpg)
-
 ## Acknowledgments
 This project utilizes **YOLOv8** from the Ultralytics library. Special thanks to the open-source community for providing valuable resources.
 
